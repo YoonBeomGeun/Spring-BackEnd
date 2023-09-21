@@ -1,6 +1,5 @@
 # BackEnd
 
-<img src='images/등록.jpg'></img>
 ## 회원 리포지토리 개발
 
 ### 회원 리포지토리 코드
