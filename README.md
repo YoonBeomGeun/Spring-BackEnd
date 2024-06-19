@@ -1,4 +1,4 @@
-# BackEnd
+# Backend
 
 ## 회원 리포지토리 개발
 
